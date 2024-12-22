@@ -11,12 +11,6 @@ A simple and responsive **BMI (Body Mass Index)** calculator built using **React
 - **ReactJS**: JavaScript library for building user interfaces.
 - **CSS**: For styling the layout and components of the application.
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-- **Node.js** and **npm** (Node Package Manager) installed on your machine.
-
-
 ## Installation
 
 Follow these steps to get the project up and running:
